@@ -101,6 +101,15 @@ Please let me know in [**the forum thread**](https://forum.kerbalspaceprogram.co
 - 1.16.1, 02025 04 29 "Meinem Weg zum Horizont"
 	- Fixed bad interaction between KerBalloons patch and ReStock.
 	- Fixed configuration errors in RealChute patch.
+ - 1.17.0, 02026 05 05 "Monkey Business"
+    - Unoffical pre-release, fork made by munktron239
+    - All part patches split into multiple files for ease of use
+    - Various LOC fixes, mostly grammar
+    - Added compatibility with OldPartsRevived, so all of Ven's models can appear in-game
+    - Added :NEEDS[!Restock] to patches, so "technically" is now compatible with Restock
+    - Updated authors of parts that still had NovaSilisko instead of Ven
+    - Removed: temporarly removed ModuleTestSubject from new parts - will eventually add them back
+    - Deprecated parts now have updated descriptions
 
 ## Roadmap
 
