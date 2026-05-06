@@ -1,0 +1,38 @@
+issues with replacing stock parts:
+
+engine:
+- liquidEngine_v2:		FXModuleAnimateThrottle not working - animation not found
+- liquidEngine2_v2:		FXModuleAnimateThrottle not working - animation not found, ModuleSrfFX not working - no IThrustModuleProvider module found, Model is messed up
+- SSME:				FXModuleAnimateThrottle not working - animation not found
+- Size2LFB_v2:			FXModuleAnimateThrottle not working - animation not found
+- liquidEngine2-2_v2:		FXModuleAnimateThrottle not working - animation not found
+- liquidEngineMainsail_v2:	FXModuleAnimateThrottle not working - animation not found, ModuleSrfFX not working - no IThrustModuleProvider module found
+- solidBooster1-1:		FXModuleAnimateThrottle not working - animation not found
+- solidBooster_v2:		FXModuleAnimateThrottle not working - animation not found
+
+deprecated parts:
+- liquidEngine			FXModuleAnimateThrottle not working - animation not found
+- liquidEngine2			FXModuleAnimateThrottle not working - animation not found
+- Size2LFB			FXModuleAnimateThrottle not working - animation not found
+
+coupling:
+- dockingPort1:			no rotation transform found
+- dockingPort2:			no rotation transform found
+- dockingPort3:			no rotation transform found
+- dockingPortLateral:		no rotation transform found
+- dockingPortLarge:		no rotation transform found
+
+aero:
+- winglet3:			deploys weird
+
+ground:
+- roverWheel1:			no break collision collider found
+- roverWheel2:			no break collision collider found
+- roverWheel3:			no break collision collider found
+- wheelMed:			no break collision collider found
+
+thermal:
+- HeatShield3:			icon is messed up
+
+communication:
+- HighGainAntenna:		TransmitterModule doesn't implement IScalarModule
