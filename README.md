@@ -102,18 +102,20 @@ Please let me know in [**the forum thread**](https://forum.kerbalspaceprogram.co
 	- Fixed bad interaction between KerBalloons patch and ReStock.
 	- Fixed configuration errors in RealChute patch.
  - 1.17.0, 02026 05 05 "Monkey Business"
-    - Unoffical pre-release, fork made by munktron239
+    - Unofficial pre-release, fork made by munktron239
     - All part patches split into multiple files for ease of use
     - Various LOC fixes, mostly grammar
-    - Added compatibility with OldPartsRevived, so all of Ven's models can appear in-game
-    - Added :NEEDS[!Restock] to patches, so "technically" is now compatible with Restock
+    - Improvements across several parts, such as the lights now having a color picker
+    - Added ``:NEEDS[!Restock]`` to stock part replacement patches, so "technically" is now compatible with Restock
     	- Installing this fork alongside Restock won't give you any problems. It just won't replace any of the stock parts
+        - Some deprecated parts will be replaced, though. Now you can have Nertea's and Ven's models in-game!
     - Updated authors of parts that still had NovaSilisko instead of Ven
-    - Removed: temporarly removed ModuleTestSubject from new parts - will eventually add them back
+    - Removed: temporarily removed ``ModuleTestSubject`` from new parts - will eventually add them back
     - Deprecated parts now have updated descriptions
+    - Added compatibility with OldPartsRevived, so all of Ven's models can appear in-game
     - Explicit support for OldPartsRevived:
-    	- If installed, some models that were previously unavailable will now be using Vens models
-    	- Includes: the old Mk1-2 pod, the old decouplers/seperators, the old torodial tank, and more!
+    	- If installed, some models that were previously unavailable will now use Vens models
+    	- Includes: the old Mk1-2 pod, the old decouplers/separators, the old toroidal tank, and more!
   
 ## Munktron's Notes
 - I've tried my darndest to ensure compatibility in this web of mods: between Restock, OldPartsRevived, and VenStockRevamp
