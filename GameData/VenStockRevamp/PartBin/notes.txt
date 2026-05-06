@@ -1,0 +1,14 @@
+parts with console errors:
+
+engines:
+- RT20: 			FXModuleAnimateThrottle not working - no animation found
+- S2ServiceEngine: 		ModuleSrfFX not working - no IThrustModuleProvider module found
+- PoodleM: 			ModuleSrfFX not working - no IThrustModuleProvider module found
+- size2nuclearEngine: 		FXModuleAnimateThrottle not working - no animation found
+
+payload:
+- OCTOServiceBay:		BoxColliders have negative size
+
+utility:
+- ladders need new descriptions
+- MicroInflatableHAB needs to be moved to cargo
