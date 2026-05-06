@@ -107,6 +107,7 @@ Please let me know in [**the forum thread**](https://forum.kerbalspaceprogram.co
     - Various LOC fixes, mostly grammar
     - Added compatibility with OldPartsRevived, so all of Ven's models can appear in-game
     - Added :NEEDS[!Restock] to patches, so "technically" is now compatible with Restock
+    	- Installing this fork alongside Restock won't give you any problems. It just won't replace any of the stock parts
     - Updated authors of parts that still had NovaSilisko instead of Ven
     - Removed: temporarly removed ModuleTestSubject from new parts - will eventually add them back
     - Deprecated parts now have updated descriptions
