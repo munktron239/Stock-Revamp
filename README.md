@@ -110,6 +110,9 @@ Please let me know in [**the forum thread**](https://forum.kerbalspaceprogram.co
     - Updated authors of parts that still had NovaSilisko instead of Ven
     - Removed: temporarly removed ModuleTestSubject from new parts - will eventually add them back
     - Deprecated parts now have updated descriptions
+    - Explicit support for OldPartsRevived:
+    	- If installed, some models that were previously unavailable will now be using Vens models
+    	- Includes: the old Mk1-2 pod, the old decouplers/seperators, the old torodial tank, and more! 
 
 ## Roadmap
 
