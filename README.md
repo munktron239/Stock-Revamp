@@ -116,11 +116,11 @@ Please let me know in [**the forum thread**](https://forum.kerbalspaceprogram.co
     	- Includes: the old Mk1-2 pod, the old decouplers/seperators, the old torodial tank, and more!
   
 ## Munktron's Notes
-I've tried my darndest to ensure compatibility in this web of mods: between Restock, OldPartsRevived, and VenStockRevamp
-In 99% of cases, there shouldn't be any issues with models battling it out over who gets to be displayed
-If Restock is installed, those models will take priority. Some deprecated parts will also be replaced by Restock. A few of Ven's models will make it through, though
-If OldPartsRevived is installed, a whitelist/blacklist will be provided and all of Ven's models will be available to be used (given that Restock isn't present)
-As for version compatibly: Everything from KSP 1.3 and up should work, as 1.4 was when parts started to get replaced
+- I've tried my darndest to ensure compatibility in this web of mods: between Restock, OldPartsRevived, and VenStockRevamp
+- In 99% of cases, there shouldn't be any issues with models battling it out over who gets to be displayed
+	- If Restock is installed, those models will take priority. Some deprecated parts will also be replaced by Restock. A few of Ven's models will make it through, though
+	- If OldPartsRevived is installed, a whitelist/blacklist will be provided and all of Ven's models will be available to be used (given that Restock isn't present)
+- As for version compatibly: Everything from KSP 1.3 and up should work, as 1.4 was when parts started to get replaced
 
 ## Roadmap
 
