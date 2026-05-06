@@ -1,3 +1,5 @@
+// This is a part config file that would generate the old size3-size2 adapter. change to a .cfg file to get it to show up
+// Useful if you want this part but don't have OldPartsRevived installed
 PART
 {
 	name = Size3to2Adapter_VSR
