@@ -15,13 +15,6 @@ deprecated parts:
 - liquidEngine2			FXModuleAnimateThrottle not working - animation not found
 - Size2LFB			FXModuleAnimateThrottle not working - animation not found
 
-coupling:
-- dockingPort1:			no rotation transform found
-- dockingPort2:			no rotation transform found
-- dockingPort3:			no rotation transform found
-- dockingPortLateral:		no rotation transform found
-- dockingPortLarge:		no rotation transform found
-
 aero:
 - winglet3:			deploys weird
 
