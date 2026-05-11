@@ -1,3 +1,5 @@
+part .CFGs are stored in the 'Configs' folder. models and textures are in the 'Parts' folder
+
 issues with replacing stock parts:
 
 engine:
