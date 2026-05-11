@@ -104,7 +104,8 @@ Please let me know in [**the forum thread**](https://forum.kerbalspaceprogram.co
  - 1.17.0, 02026 05 05 "Monkey Business"
     - Unofficial pre-release, fork made by munktron239
     - All part patches split into multiple files for ease of use
-    - Various LOC fixes, mostly grammar
+    - File structure overhauled, part thumbnails now generate properly within mod folder
+    - Various LOC fixes, mostly grammar. Some parts with copy/paste descriptions have new flavor text
     - Improvements across several parts, such as the lights now having a color picker
     - Added ``:NEEDS[!Restock]`` to stock part replacement patches, so "technically" is now compatible with Restock
     	- Installing this fork alongside Restock won't give you any problems. It just won't replace any of the stock parts
