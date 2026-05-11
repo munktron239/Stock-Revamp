@@ -4,14 +4,24 @@ yes, it's confusing. but at least this way the part thumbnails generate within t
 parts with console errors:
 
 engines:
-- RT20: 			FXModuleAnimateThrottle not working - no animation found
+- size2nuclearEngine: 		model is messed up, gimbal is not set up
 - S2ServiceEngine: 		ModuleSrfFX not working - no IThrustModuleProvider module found
 - PoodleM: 			ModuleSrfFX not working - no IThrustModuleProvider module found
-- size2nuclearEngine: 		FXModuleAnimateThrottle not working - no animation found
+- size0PulseJet:		logspam in console - 'Look rotation viewing vector is zero'
 
 payload:
 - OCTOServiceBay:		BoxColliders have negative size
 
-utility:
-- ladders need new descriptions
-- MicroInflatableHAB needs to be moved to cargo
+to-do:
+- upgrade engines with ModuleEngines to ModuleEnginesFX
+- gimbals look weird on some engines (fix FXModuleLookAtConstraint?)
+- tweak node positions on some parts
+- waterfall configs?
+
+parts with the old ModuleEngines:
+- S2ServiceEngine
+- size2nuclearEngine
+- RT1
+- RT2
+- S2Pila
+- VenLV909b
