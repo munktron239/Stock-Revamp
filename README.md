@@ -113,10 +113,11 @@ Please let me know in [**the forum thread**](https://forum.kerbalspaceprogram.co
     - Updated authors of parts that still had NovaSilisko instead of Ven
     - Removed: temporarily removed ``ModuleTestSubject`` from new parts - will eventually add them back
     - Deprecated parts now have updated descriptions
-    - Added compatibility with OldPartsRevived, so all of Ven's models can appear in-game
+    - Added compatibility with VABOrganizer
+    - Added compatibility with OldPartsRevived; now all of Ven's models can appear in-game
     - Explicit support for OldPartsRevived:
     	- If installed, some models that were previously unavailable will now use Vens models
-    	- Includes: the old Mk1-2 pod, the old decouplers/separators, the old toroidal tank, and more!
+    	- Includes: Vens old Mk1-2 pod, Vens old decouplers/separators, Vens old toroidal tank, Vens old RCS block, and more!
   
 ## Munktron's Notes
 - I've tried my darndest to ensure compatibility in this web of mods: between Restock, OldPartsRevived, and VenStockRevamp
