@@ -11,6 +11,8 @@ engine:
 - liquidEngineMainsail_v2:	FXModuleAnimateThrottle not working - animation not found, ModuleSrfFX not working - no IThrustModuleProvider module found
 - solidBooster1-1:		FXModuleAnimateThrottle not working - animation not found
 - solidBooster_v2:		FXModuleAnimateThrottle not working - animation not found
+- Size3EngineCluster:		ModuleSurfaceFX not working
+- Size3AdvancedEngine:		smoke effects are rotated 90 degrees
 
 deprecated parts:
 - liquidEngine			FXModuleAnimateThrottle not working - animation not found
@@ -31,3 +33,8 @@ thermal:
 
 communication:
 - HighGainAntenna:		TransmitterModule doesn't implement IScalarModule
+
+to-do:
+- tweak node positions on some parts
+- effects on revamped engines ("_v2") need to be reverted to original engine effects
+- gimbals look weird on some engines (fix FXModuleLookAtConstraint?)
