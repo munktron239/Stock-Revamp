@@ -1,3 +1,6 @@
+part .CFGs are stored in the 'Parts' folder. models and textures are in the 'NewParts' folder
+yes, it's confusing. but at least this way the part thumbnails generate within the mod folder
+
 parts with console errors:
 
 engines:
