@@ -1,8 +1,8 @@
 {
 	"NAME": "VenStockRevamp",
-	"URL": "https://raw.githubusercontent.com/Kerbas-ad-astra/Stock-Revamp/master/GameData/VenStockRevamp/VenStockRevamp.version",
+	"URL": "https://raw.githubusercontent.com/munktron239/Stock-Revamp/master/GameData/VenStockRevamp/Versioning/VenStockRevamp.version",
 	"GITHUB": {
-		"USERNAME":"Kerbas-ad-astra",
+		"USERNAME":"munktron239",
 		"REPOSITORY":"Stock-Revamp",
 		"ALLOW_PRE_RELEASE":false,
 	},
