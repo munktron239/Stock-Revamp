@@ -12,6 +12,15 @@ engines:
 payload:
 - OCTOServiceBay:		BoxColliders have negative size
 
+parts with weird highlighting:
+- Size2MedEngine
+- RT20
+- S2ServiceEngine
+- liquidEngine / _v2
+- liquidEngine2 / _v2
+- engineLargeSkipper_v2
+- liquidEngine2-2_v2
+
 to-do:
 - upgrade engines with ModuleEngines to ModuleEnginesFX
 - gimbals look weird on some engines (fix FXModuleLookAtConstraint?)
